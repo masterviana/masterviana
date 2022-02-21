@@ -20,6 +20,8 @@
   <img alt="NodeJs" src="https://img.shields.io/badge/Solidiy-323330?style=flat-square&logo=solidity&logoColor=F7DF1E" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-E34F26?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="MongoBD" src="https://img.shields.io/badge/-MongoBD-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="VueJS" src="https://img.shields.io/badge/-VueJS-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
 </p
 
 <!--
