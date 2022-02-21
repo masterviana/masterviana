@@ -15,7 +15,7 @@
   <img alt="AngularJS" src="https://img.shields.io/badge/AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-  <img alt="github" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=githubp&logoColor=white" />
+  <img alt="github" src="https://img.shields.io/badge/github23-239120?style=flat-square&logo=github&logoColor=white" />
 </p
 
 <!--
