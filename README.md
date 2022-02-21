@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>
-  <img alt="angular" src="https://img.shields.io/badge/-Angular2-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-docker-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
