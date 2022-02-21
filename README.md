@@ -18,7 +18,8 @@
   <img alt="github" src="https://img.shields.io/badge/github-E23237?style=flat-square&logo=github&logoColor=white" />
   <img alt="NodeJs" src="https://img.shields.io/badge/Nodejs-F05032?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="NodeJs" src="https://img.shields.io/badge/Solidiy-323330?style=flat-square&logo=solidity&logoColor=F7DF1E" />
-   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-E34F26?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="MongoBD" src="https://img.shields.io/badge/-MongoBD-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p
 
 <!--
